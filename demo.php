@@ -1,3 +1,23 @@
-<?php
-echo "hello";
-?>
+[
+	{
+	"name":"Ankush",
+	"cars":{
+			"likes":["varna"],
+			"dislikes":["BMW"]
+			}
+	},
+	{
+	"name":"Raj",
+	"cars":{
+			"likes":["BMW"],
+			"dislikes":["Duster"]
+			}
+	},
+	{
+	"name":"Avinash",
+	"cars":{
+			"likes":["RoadRunner"],
+			"dislikes":["Maruti"]
+			}
+	}	
+]
